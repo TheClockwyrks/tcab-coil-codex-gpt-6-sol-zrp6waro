@@ -1,0 +1,11 @@
+[[media]]
+file = "combo.json.gz"
+name = "A rising combo across the grid"
+
+[[media]]
+file = "combo.png"
+name = "A long coil at x5"
+
+[[media]]
+file = "title.png"
+name = "The title screen"
